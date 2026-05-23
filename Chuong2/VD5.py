@@ -1,4 +1,3 @@
-#Nhập vào 2 số x, y. Kiểm tra xem x = y, x > y, x < y hay không
 x = float(input("Nhap x: "))
 y = float(input("Nhap y: "))
 if ( x == y):

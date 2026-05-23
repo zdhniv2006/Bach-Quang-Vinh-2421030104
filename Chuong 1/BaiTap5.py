@@ -1,4 +1,4 @@
-matrix=eval(input("Nhap ma tran 4x3 duoi dang tuple:"))
+matrix=eval(input("Nhap ma tran 3x4 o dang tuple:"))
 print(*matrix[0])
 print(*matrix[1])
 print(*matrix[2])

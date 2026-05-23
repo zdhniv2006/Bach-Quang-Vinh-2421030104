@@ -1,0 +1,5 @@
+f=open("e:\\toan.txt","r")
+l0=f.readline()
+print(l0)
+11=f.readline()
+print(l1)

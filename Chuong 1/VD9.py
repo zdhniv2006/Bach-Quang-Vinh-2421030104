@@ -1,3 +1,3 @@
-fruits = ['apple', 'banana', 'quava']
-del fruits[0]
-print(fruits)
+fruits = ['DuaHau', 'DuaChuot', 'QuaDai']
+del hoaqua[0]
+print(hoaqua)

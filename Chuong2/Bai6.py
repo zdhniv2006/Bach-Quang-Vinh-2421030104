@@ -1,7 +1,6 @@
 tong = 0
 i = 1
-n = int(input("nhap so phan tu trong day:"))
-
+n = int(input("nhap so phan tu trong day so:"))
 while i <= n:
     x = int(input("nhap so:"))
     if x % 2 == 0:
@@ -9,4 +8,4 @@ while i <= n:
     else:
         pass  
     i = i + 1  
-print("tong cac so chan la:", tong) 
+print("tong cac so chan co trong day la:", tong) 

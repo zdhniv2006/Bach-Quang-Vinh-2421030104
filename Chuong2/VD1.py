@@ -1,4 +1,3 @@
-#Nhập vào 3 số a, b, c. In ra số lớn nhất/bé nhất
 a = float(input("Nhap so thu nhat: "))
 b = float(input("Nhap so thu haiL "))
 c = float(input("Nhap so thu ba: "))
